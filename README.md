@@ -2,7 +2,7 @@
 
 This project is about different optimization algorithms for machine learning in different settings (constrained, unconstrained, automatic differentiation...).
 
-A quick overview which is more detailed in this [experimentations and observations notebook](Optimization-for-ML/experimentations_and_observations.ipynb) :
+A quick overview which is more detailed in this [experimentations and observations notebook](/experimentations_and_observations.ipynb) :
 
 - [Part 1: Exploratory Data Analysis about Diabetes dataset](#1)
   - [1.1 Import Dataset](#1.1)
